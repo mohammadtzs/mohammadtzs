@@ -26,7 +26,8 @@
 ### 🌍 Find Me Around
 
 - 💼 GitHub: [mohammadtzs](https://github.com/mohammadtzs)
-- 📢 Twitter: [@campebazirobina](https://x.com/campebazirobina)
+- <a href="https://twitter.com/campebazirobina"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 - 💬 Telegram: [@mohammad_tzs](https://t.me/mohammad_tzs)
 
 ---
