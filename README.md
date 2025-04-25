@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad (Alex)</h1>
-<h3 align="center">Web3 Hunter | Former Gaming Pro | CCboot Hacker | Airdrop Degen</h3>
+
 
 <p align="center">
   <img src="https://files.catbox.moe/0qbpwh.png" alt="From Gaming to Gaining" width="100%" height="auto"/></a>
@@ -10,7 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://discord.gg/mohammadtzs" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
+<h3 align="center">Web3 Hunter | Former Gaming Pro | CCboot Hacker | Airdrop Degen</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/1c/57/8b1c57d1517ef1da9f13e9d9b4453438.gif" />
 
 - 🎮 With **15+ years** of experience running PS5 & PC Gaming Clubs  
