@@ -35,4 +35,4 @@
 
 ---
 
-⚡ **Fun Fact:** I used to manage 30+ systems at once in my gaming center — now I hunt 30+ airdrops at once 😉
+⚡ **Fun Fact:** I used to manage 50+ systems at once in my gaming center — now I hunt 50+ airdrops at once 😉
