@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="From Gaming to Gaining" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohammad (Alex)</h1>
 <h3 align="center">Web3 Hunter | Former Gaming Pro | CCboot Hacker | Airdrop Degen</h3>
 
