@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://files.catbox.moe/0qbpwh.png" alt="From Gaming to Gaining" width="100%" height="auto"/></a>
 <p align="center">
-<a href="[https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA](https://www.youtube.com/@mohammadtalebizadeh1859)"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+<a href="https://www.youtube.com/@mohammadtalebizadeh1859"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <h1 align="center">Hi 👋, I'm Mohammad (Alex)</h1>
 <h3 align="center">Web3 Hunter | Former Gaming Pro | CCboot Hacker | Airdrop Degen</h3>
