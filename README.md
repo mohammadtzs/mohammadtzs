@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/0qbpwh.png" alt="From Gaming to Gaining" width="100%" />
+  <img src="https://files.catbox.moe/0qbpwh.png" alt="From Gaming to Gaining" width="100%" height="auto"/></a
 </p>
 <h1 align="center">Hi 👋, I'm Mohammad (Alex)</h1>
 <h3 align="center">Web3 Hunter | Former Gaming Pro | CCboot Hacker | Airdrop Degen</h3>
