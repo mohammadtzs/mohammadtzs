@@ -7,8 +7,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://discord.gg/mohammadtzs" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://discord.gg/mohammadtzs" alt="Join our community"><img width="32px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+
 <h1 align="center">Hi 👋, I'm Mohammad (Alex)</h1>
 <h3 align="center">Web3 Hunter | Former Gaming Pro | CCboot Hacker | Airdrop Degen</h3>
 
