@@ -35,8 +35,8 @@
 ### 🌍 Find Me Around
 
 - 💼 GitHub: [mohammadtzs](https://github.com/mohammadtzs)
-- 📢 Twitter: [@your-twitter](#) (در صورت تمایل اضافه کن)
-- 💬 Telegram: [@your-telegram](#) (در صورت تمایل اضافه کن)
+- 📢 Twitter: [campebazirobina](https://x.com/campebazirobina)
+- 💬 Telegram: [mohammad_tzs](https://t.me/mohammad_tzs)
 
 ---
 
